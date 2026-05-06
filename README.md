@@ -1,1 +1,3 @@
-# JudJen
+# Simujo ([simujo.com](https://simujo.com))
+
+Simujo is a platform that enables indie developers to create interactive snapshots of web applications without deploying them. It transforms any web project into a shareable, interactive environment where users can explore real application states and simulate behavior through clickable regions. By removing the need for hosting and infrastructure of projects that don't make revenue, Simujo helps developers showcase their work faster, cheaper, and without operational overhead, making it easier to present ideas, prototypes, and side projects in a fully interactive form, without wasting money.
